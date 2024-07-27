@@ -1,0 +1,27 @@
+.manage-products-page {
+    padding: 20px;
+  }
+  
+  .add-product input {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .product-item {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+  }
+  
+  .product-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-right: 10px;
+  }
+  
+  .product-details {
+    flex: 1;
+  }
+  

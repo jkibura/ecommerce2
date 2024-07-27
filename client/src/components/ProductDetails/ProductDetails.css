@@ -1,0 +1,21 @@
+.product-details-page {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .product-image-large {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .back-to-products {
+    display: block;
+    margin-top: 20px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .back-to-products:hover {
+    text-decoration: underline;
+  }
+  
